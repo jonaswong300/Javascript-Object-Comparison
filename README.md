@@ -25,8 +25,10 @@ Shallow equality work bests and is sufficient if the objects are not nested and 
 
 Deep equality works best if there is nested objects and would be the go to method for object comaprison. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Do feel free to update and add on to the code if there are any better improvements or methods to do object comparison. Hope this helps you! Thanks for reading. 
 
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
