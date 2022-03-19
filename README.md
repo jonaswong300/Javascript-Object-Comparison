@@ -12,6 +12,7 @@ This guide would cover the 3 type of comparison which I have find useful.
 
 2. Shallow Equality 
    This method iterates through the object keys using Object.keys(). Since it is a loop, we are able to check the value of the object property directly. 
+   
    ![image](https://user-images.githubusercontent.com/61023335/159129741-accdd1ba-27fd-4df6-b887-6fd6ca707446.png)
 
 3. Deep Equality 
